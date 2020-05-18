@@ -31,7 +31,4 @@
 *.out
 *.app
 
-# excludes DaSS source
-DaSS/*
-
 *.zip
